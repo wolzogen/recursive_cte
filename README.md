@@ -1,4 +1,4 @@
-![alt text](https://avatars0.githubusercontent.com/u/177543?s=100&v=4)
+![alt postgres](https://avatars0.githubusercontent.com/u/177543?s=100&v=4)
 
 # SQL Recursive Common Table Expression
 
